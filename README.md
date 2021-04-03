@@ -20,5 +20,5 @@ scikit-image >= 0.14.0<br/>
 
 ## VI SLAM Visualization
 ### Mapping
-![image]()<br/>
+![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture.JPG)<br/>
 ### Localization
