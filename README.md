@@ -22,4 +22,4 @@ scikit-image >= 0.14.0<br/>
 ### Mapping and Localization
 ![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture.JPG)<br/>
 ### Final Output
-![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture.JPG)<br/>
+![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture2.JPG)<br/>
