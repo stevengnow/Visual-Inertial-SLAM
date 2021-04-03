@@ -19,6 +19,7 @@ scikit-image >= 0.14.0<br/>
 3) To run SLAM, run SLAM.py <br/>
 
 ## VI SLAM Visualization
-### Mapping
+### Mapping and Localization
 ![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture.JPG)<br/>
-### Localization
+### Final Output
+![image](https://github.com/stevengnow/Visual-Inertial-SLAM/blob/main/Capture.JPG)<br/>
